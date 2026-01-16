@@ -1,6 +1,6 @@
-# Hi there, I'm Babatunde 👋  
+# Hi there, I'm Babatunde Qodri 👋  
  
-Hi there 👋, I’m Babatunde Qodri a Cybersecurity Analyst with 2 years of experience and a strong foundation in SIEM tools, incident response, and threat detection. I help organizations neutralize threats and defend against emerging cyber risks. 🚀 
+I’m committed to helping organizations reduce risk, improve visibility, and build resilient security operations through consistent, high-quality execution aligned with integrity, diligence, and operational excellence. 🚀 
 
 ---
 
