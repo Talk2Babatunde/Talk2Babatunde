@@ -1,6 +1,6 @@
 # Hi there, I'm Babatunde Qodri 👋  
- 
-I’m committed to helping organizations reduce risk, improve visibility, and build resilient security operations through consistent, high-quality execution aligned with integrity, diligence, and operational excellence. 🚀 
+
+I design and implement security controls end-to-end, working across network security, Windows endpoint protection, email security, and Identity & Access Management to deliver a cohesive, defense-in-depth strategy.
 
 ---
 
