@@ -1,6 +1,6 @@
 # Hi there, I'm Babatunde Qodri 👋  
 
-I design and implement security controls end-to-end, working across network security, Windows endpoint protection, email security, and Identity & Access Management to deliver a cohesive, defense-in-depth strategy.
+Experienced SOC Analyst with hands-on expertise in designing and implementing secure cloud architectures in Microsoft Azure. Skilled in security monitoring, log analysis, and threat detection using Microsoft Sentinel and KQL. Proficient in PowerShell scripting for automation and operational efficiency. Strong communicator with proven ability to collaborate across multidisciplinary teams.
 
 ---
 
