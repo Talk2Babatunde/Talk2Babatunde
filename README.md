@@ -2,6 +2,12 @@
 
 Experienced Cybersecurity analyst with hands-on expertise in designing and implementing secure cloud architectures in Microsoft Azure. Skilled in security monitoring, log analysis, and threat detection using Microsoft Sentinel and KQL. Proficient in PowerShell scripting for automation and operational efficiency. Strong communicator with proven ability to collaborate across multidisciplinary teams.
 
+# Areas of Expertise 
+
+Identity Security | Cybersecurity Strategy | Zero Trust | AI/ML-Based Security | Trust & Safety | Governance, Risk, & Compliance (GRC) | Threat Detection & Remediation | Fraud Prevention | Cloud Security | Executive Leadership | Cross-Organizational Collaboration
+
+
+
 ---
 
 ## 🛠️ Tech & Tools  
