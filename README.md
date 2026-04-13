@@ -1,6 +1,6 @@
 # Hi there, I'm Babatunde Qodri 👋  
 
-Experienced SOC Analyst with hands-on expertise in designing and implementing secure cloud architectures in Microsoft Azure. Skilled in security monitoring, log analysis, and threat detection using Microsoft Sentinel and KQL. Proficient in PowerShell scripting for automation and operational efficiency. Strong communicator with proven ability to collaborate across multidisciplinary teams.
+Experienced Cybersecurity analyst with hands-on expertise in designing and implementing secure cloud architectures in Microsoft Azure. Skilled in security monitoring, log analysis, and threat detection using Microsoft Sentinel and KQL. Proficient in PowerShell scripting for automation and operational efficiency. Strong communicator with proven ability to collaborate across multidisciplinary teams.
 
 ---
 
