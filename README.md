@@ -4,7 +4,7 @@ Experienced Cybersecurity analyst with hands-on expertise in designing and imple
 
 # Areas of Expertise 
 
-Identity Security | Cybersecurity Strategy | Zero Trust | AI/ML-Based Security | Trust & Safety | Governance, Risk, & Compliance (GRC) | Threat Detection & Remediation | Fraud Prevention | Cloud Security | Executive Leadership | Cross-Organizational Collaboration
+DLP | Identity Security | Cybersecurity Strategy | Zero Trust | AI/ML-Based Security | Trust & Safety | Governance, Risk, & Compliance (GRC) | Threat Detection & Remediation | Fraud Prevention | Cloud Security | Executive Leadership | Cross-Organizational Collaboration
 
 
 
