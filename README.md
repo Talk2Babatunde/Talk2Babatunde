@@ -1,10 +1,12 @@
 # Hi there, I'm Babatunde Qodri 👋  
 
-Experienced Cybersecurity analyst with hands-on expertise in designing and implementing secure cloud architectures in Microsoft Azure. Skilled in security monitoring, log analysis, and threat detection using Microsoft Sentinel and KQL. Proficient in PowerShell scripting for automation and operational efficiency. Strong communicator with proven ability to collaborate across multidisciplinary teams.
+Experienced Cybersecurity analyst with hands-on expertise in designing and implementing secure cloud architectures in Microsoft Azure. Skilled in security monitoring, log analysis, and threat detection using Microsoft Sentinel and Splunk. Proficient in PowerShell scripting for automation and operational efficiency. Strong communicator with proven ability to collaborate across multidisciplinary teams.
+
+Explore my projects and security labs to see how I approach cloud security, threat detection, incident response, and security monitoring in practical environments. Enjoy!
 
 # Areas of Expertise 
 
-DLP | Identity Security | Cybersecurity Strategy | Zero Trust | AI/ML-Based Security | Trust & Safety | Governance, Risk, & Compliance (GRC) | Threat Detection & Remediation | Fraud Prevention | Cloud Security | Executive Leadership | Cross-Organizational Collaboration
+SOC Operations | Identity Security | Cybersecurity Strategy | Zero Trust | incidence Response | Vuln Management | Threat Hunting | Threat Detection & Remediation | Fraud Prevention | Cloud Security | Executive Leadership | Cross-Organizational Collaboration
 
 
 
