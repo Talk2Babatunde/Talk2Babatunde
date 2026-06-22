@@ -2,6 +2,7 @@
 
 Experienced Cybersecurity analyst with hands-on expertise in designing and implementing secure cloud architectures in Microsoft Azure. Skilled in security monitoring, log analysis, and threat detection using Microsoft Sentinel and Splunk. Proficient in PowerShell scripting for automation and operational efficiency. Strong communicator with proven ability to collaborate across multidisciplinary teams.
 
+---
 Explore my projects and security labs to see how I approach cloud security, threat detection, incident response, and security monitoring in practical environments. Enjoy!
 
 # Areas of Expertise 
