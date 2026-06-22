@@ -36,11 +36,25 @@ SOC Operations | Identity Security | Cybersecurity Strategy | Zero Trust | incid
 
 ## 📂 Featured Projects  
 
-- 🔎 **SOC Lab Simulation** – Built a home lab with Splunk, Wazuh, and osTicket for practicing incident response workflows.  
-- 🛡️ **Threat Intelligence with OpenCTI** – Integrated AlienVault OTX feeds for detecting real-world threats.  
-- 📊 **SIEM Dashboards** – Created security monitoring dashboards in Splunk & Sentinel for log analysis.  
-- 🖥️ **Forensics & Malware Analysis** – Hands-on case studies analyzing malicious files in a Windows VM.  
-- 🌐 **Comprehensive Web Assessment** – Performed a full web application assessment from active reconnaissance to root cause analysis, identifying 10 critical vulnerabilities within 2 days using Burp Suite and other tools.
+🔎 **SOC Lab Simulation | Splunk · Wazuh · osTicket**
+
+Built a fully functional SOC home lab simulating real-world attack scenarios — practicing alert triage, incident detection, and end-to-end response workflows mirroring enterprise SOC operations.
+
+🛡️ **Threat Intelligence Platform | OpenCTI · AlienVault OTX**
+
+Deployed an OpenCTI threat intel platform integrated with live AlienVault OTX feeds — automating IOC ingestion and mapping active threats to MITRE ATT&CK TTPs for proactive detection.
+
+📊 **SIEM Security Dashboards | Splunk · Microsoft Sentinel**
+
+Designed custom detection rules, log correlation queries, and real-time alerting dashboards across Splunk and Sentinel — tuning alerts to reduce false positives and improve threat visibility across endpoint, identity, and cloud telemetry.
+
+🖥️ **Forensics & Malware Analysis | Windows VM**
+
+Conducted static and dynamic malware analysis in isolated Windows environments — examining behavioral patterns, registry artifacts, and IOCs to build actionable detection rules.
+
+🌐 **Web Application Security Assessment | Burp Suite · OWASP Top 10**
+
+Executed a full-scope web assessment from reconnaissance to root cause analysis — identifying 10 critical vulnerabilities in 48 hours across injection, authentication, and access control weaknesses.
 
 ---
 
