@@ -7,7 +7,7 @@ Explore my projects and security labs to see how I approach cloud security, thre
 
 # Areas of Expertise 
 
-SOC Operations | Identity Security | Cybersecurity Strategy | Zero Trust | incidence Response | Vuln Management | Threat Hunting | Threat Detection & Remediation | Fraud Prevention | Cloud Security | Executive Leadership | Cross-Organizational Collaboration
+Cloud Security | SOC Operations | Identity Security | Cybersecurity Strategy | Zero Trust | incidence Response | Vuln Management | Threat Hunting | Threat Detection & Remediation | Azure/AWS | Cloud Security | Executive Leadership | Cross-Organizational Collaboration
 
 
 
